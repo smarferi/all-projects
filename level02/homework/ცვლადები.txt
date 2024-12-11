@@ -1,0 +1,2 @@
+ცვლადი არის რაღაც რაც ინახავს ჩვენს დათას მაგალითად "name = saba yura" როცა დავწერთ "name" გამოისახება "saba yura" იგი გვეხმარება ბევრ რამეში მაგალითად როცა ჩვენგვჭირდება რომ დავწეროთ მაგალითად 
+"print("saba yura aris 13 qlis cxovrobs rustavshi") 20_ჯერ ამდენ წერას ჩვენ დავწერთ უბრალოდ saba = "saba yura aris 13 wlis cxovrobs rustavshi" და როცა დავწერთ "print(saba) დაწერს saba yura aris 13 qlis cxovrobs rustavshi 

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random HTML Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .content {
+            display: flex;
+            justify-content: space-around;
+        }
+        .content img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        .form-container {
+            margin-top: 30px;
+        }
+        .form-container input, .form-container textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+        .form-container button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .form-container button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Random HTML Project</h1>
+    </header>
+
+    <section>
+        <h2>About This Page</h2>
+        <p>This is a simple webpage built with HTML and CSS. It demonstrates various elements such as headings, paragraphs, links, images, a table, and a form. It's a random collection of features to showcase basic web development skills.</p>
+    </section>
+
+    <section class="content">
+        <div>
+            <h2>Image 1</h2>
+            <img src="https://via.placeholder.com/300x200" alt="Random Image 1">
+        </div>
+        <div>
+            <h2>Image 2</h2>
+            <img src="https://via.placeholder.com/300x200" alt="Random Image 2">
+        </div>
+    </section>
+
+    <section>
+        <h2>Random Table of Data</h2>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Location</th>
+            </tr>
+            <tr>
+                <td>John Doe</td>
+                <td>28</td>
+                <td>New York</td>
+            </tr>
+            <tr>
+                <td>Jane Smith</td>
+                <td>34</td>
+                <td>London</td>
+            </tr>
+            <tr>
+                <td>Max Johnson</td>
+                <td>22</td>
+                <td>Berlin</td>
+            </tr>
+        </table>
+    </section>
+
+    <section class="form-container">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feel free to fill out the form below:</p>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" rows="4" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Random HTML Project | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
