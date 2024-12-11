@@ -1,0 +1,14 @@
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\bin\Debug\net8.0\c# course.exe
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\bin\Debug\net8.0\c# course.deps.json
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\bin\Debug\net8.0\c# course.runtimeconfig.json
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\bin\Debug\net8.0\c# course.dll
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\bin\Debug\net8.0\c# course.pdb
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\c# course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\c# course.AssemblyInfoInputs.cache
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\c# course.AssemblyInfo.cs
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\c# course.csproj.CoreCompileInputs.cache
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\c# course.dll
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\refint\c# course.dll
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\c# course.pdb
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\c# course.genruntimeconfig.cache
+C:\Users\sabak\OneDrive\Documents\c# projects\c# course\c# course\obj\Debug\net8.0\ref\c# course.dll
