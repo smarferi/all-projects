@@ -1,0 +1,348 @@
+.greece_title {
+    font-family: Bangers;
+    position: relative;
+    top: 10px;
+    color: rgb(255, 255, 0);
+    font-size: 100px;
+    margin-bottom: 0;
+}
+
+
+
+.Αθήνα {    
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 2s;
+}
+
+.Αθήνα:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Αθήνα:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+.Γυροβόλι {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 2s;
+}
+
+.Γυροβόλι:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Γυροβόλι:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+
+.Αδάμας {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 2s;
+}
+
+.Αδάμας:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Αδάμας:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+
+.Ερμούπολη {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 2.5s;
+}
+
+.Ερμούπολη:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Ερμούπολη:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+.Καβάλα {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 2.5s;
+}
+
+.Καβάλα:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Καβάλα:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+
+
+.Κομοτηνή {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 2.5s;
+}
+
+.Κομοτηνή:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Κομοτηνή:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+.Λαμία {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 3s;
+}
+
+.Λαμία:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Λαμία:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+.Άβελος {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    animation-name: slideright;
+    animation-duration: 3s;
+}
+
+.Άβελος:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Άβελος:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+.Τρίπολη {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    animation-name: slideright;
+    animation-duration: 3s;
+}
+
+.Τρίπολη:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Άβελος:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+.Κοζάνη {
+    position: relative;
+    top: 100px;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 30px;
+    margin-right: 10px;
+    animation-name: slideright;
+    animation-duration: 3.5s;
+}
+
+.Κοζάνη:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+}
+
+.Κοζάνη:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+}
+
+
+body {
+    background-color: rgb(180, 240, 255);
+}
+
+
+.Home {
+    position: relative;
+    top: 490px;
+    width: 125px;
+    height: 50px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background: none;
+    cursor: pointer;
+    transition: background-color 0.5s, color 0.5s, border 0.5s;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  .Home:hover {
+    background-color: rgb(255, 255, 99);
+    color: rgb(180, 240, 255);
+    border: none;
+  }
+  .Home:active {
+    background-color: rgb(180, 240, 255);
+    color: none;
+  }
+
+  @keyframes slideright {
+    from{transform: translateX(300%);}
+  }

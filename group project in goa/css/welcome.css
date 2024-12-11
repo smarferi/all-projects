@@ -1,0 +1,65 @@
+.welcome {
+  font-family: Bangers;
+  position: relative;
+  top: 10px;
+  color: rgb(255, 255, 0);
+  font-size: 100px;
+}
+
+.next_page {
+  position: relative;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+}
+
+.next_page:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.next_page:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+body {
+  background-color: rgb(180, 240, 255);
+}
+
+.txt {
+  position: relative;
+
+  font-family: Bangers;
+  font-size: 35px;
+  width: 1000px;
+  color: rgb(255, 254, 254);
+  margin-top: 10;
+}
+
+.offer {
+  width: 1200px;
+  font-family: Bangers;
+  position: relative;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  margin-top: 10;
+}
+
+.why {
+  width: 1500px;
+  font-family: Bangers;
+  position: relative;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  margin-top: 10;
+}
+

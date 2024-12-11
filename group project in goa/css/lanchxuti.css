@@ -1,0 +1,28 @@
+.lanchxuti_title {
+    font-size: 100px;
+    font-family: Bangers;
+}
+
+.tempDisplay {
+    font-family: Bangers;
+    font-size: 50px;
+}
+
+.humidityDisplay {
+    font-family: Bangers;
+    font-size: 50px;
+}
+
+.descDisplay {
+    font-family: Bangers;
+    font-size: 50px;
+}
+
+.weatheremoji {
+    font-family: Bangers;
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(180, 240, 255);
+}

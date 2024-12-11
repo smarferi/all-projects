@@ -1,0 +1,342 @@
+.georgia_title {
+  font-family: Bangers;
+  position: relative;
+  top: 10px;
+  color: rgb(255, 255, 0);
+  font-size: 100px;
+  margin-bottom: 0;
+}
+
+.აბასთუმანი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.აბასთუმანი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.აბასთუმანი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.ახალციხე {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.ახალციხე:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.ახალციხე:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.ბორჯომი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.ბორჯომი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.ბორჯომი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.გურჯაანი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2.5s;
+}
+
+.გურჯაანი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.გურჯაანი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.თბილისი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2.5s;
+}
+
+.თბილისი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.თბილისი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.ლანჩხუთი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2.5s;
+}
+
+.ლანჩხუთი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.ლანჩხუთი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.ონი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3s;
+}
+
+.ონი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.ონი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.საჩხერე {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3s;
+}
+
+.საჩხერე:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.საჩხერე:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.რუსთავი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3s;
+}
+
+.რუსთავი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.რუსთავი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+.ქუთაისი {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3.5s;
+}
+
+.ქუთაისი:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.ქუთაისი:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+body {
+  background-color: rgb(180, 240, 255);
+}
+
+.Home {
+  position: relative;
+  top: 550px;
+  width: 125px;
+  height: 50px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 20px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.Home:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+.Home:active {
+  background-color: rgb(180, 240, 255);
+  color: none;
+}
+
+@keyframes slideright {
+  from{transform: translateX(300%);}
+}

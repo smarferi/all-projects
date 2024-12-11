@@ -1,0 +1,266 @@
+.Instanbul {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+.Instanbul:hover{
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Ankara {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.Ankara:hover{
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Bursa {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.Bursa:hover{
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Balıkesir {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2.5s;
+}
+
+.Balıkesir:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Batman {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2.5s;
+}
+
+.Batman:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Bilecik {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2.5s;
+}
+
+.Bilecik:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+
+}
+
+.Bingöl {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3s;
+}
+
+.Bingöl:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Bitlis {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3s;
+}
+
+.Bitlis:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Bolu {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3s;
+}
+
+.Bolu:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.Burdur {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 3.5s;
+}
+
+.Burdur:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+body {
+  background-color: rgb(180, 240, 255);
+}
+
+.turkey_title {
+  font-family: Bangers;
+  position: relative;
+  top: 10px;
+  color: rgb(255, 255, 0);
+  font-size: 100px;
+  margin-bottom: 0;
+}
+
+@keyframes slideright {
+  from{transform: translateX(300%);}
+}

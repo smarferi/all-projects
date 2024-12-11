@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ka">
+  <head>
+    <title>მიმოხილვები - ამინდის აპლიკაცია</title>
+  </head>
+  <body>
+    <h1 class="page-title">მიმოხილვები</h1>
+    <section class="reviews-section">
+      <h2 class="reviews-header">გამოყენების მიმოხილვები</h2>
+
+      <div class="review">
+        <h3 class="reviewer-name">ნათია ლომიძე</h3>
+        <p class="review-rating">⭐️⭐️⭐️⭐️⭐️</p>
+        <p class="review-text">
+          საუკეთესო ამინდის პროგნოზის აპლიკაცია ძალიან სწრაფი და სწორი
+        </p>
+      </div>
+
+      <div class="review">
+        <h3 class="reviewer-name">გიორგი გელაშვილი</h3>
+        <p class="review-rating">⭐️⭐️⭐️⭐️</p>
+        <p class="review-text">სუპერ</p>
+      </div>
+
+      <div class="review">
+        <h3 class="reviewer-name">მზია გოგოლაძე</h3>
+        <p class="review-rating">⭐️⭐️⭐️⭐️⭐️</p>
+        <p class="review-text">
+          მოკლე და მარტივი გამოყენება, თუმცა მომწონს რომ ყოველთვის ზუსტ ამინდს
+          აჩვენებს.
+        </p>
+      </div>
+    </section>
+
+    <section class="submit-review-section">
+      <h2 class="submit-review-header">თქვენი მიმოხილვა</h2>
+      <form action="#" method="post" class="review-form">
+        <label for="name" class="form-label">თქვენი სახელი:</label><br />
+        <input
+          type="text"
+          id="name"
+          name="name"
+          class="form-input"
+          required
+        /><br /><br />
+
+        <label for="rating" class="form-label">შეფასება:</label><br />
+        <select id="rating" name="rating" class="form-select" required>
+          <option value="1">⭐️</option>
+          <option value="2">⭐️⭐️</option>
+          <option value="3">⭐️⭐️⭐️</option>
+          <option value="4">⭐️⭐️⭐️⭐️</option>
+          <option value="5">⭐️⭐️⭐️⭐️⭐️</option></select
+        ><br /><br />
+
+        <label for="review" class="form-label">თქვენი მიმოხილვა:</label><br />
+        <textarea
+          id="review"
+          name="review"
+          class="form-textarea"
+          rows="4"
+          cols="50"
+          required
+        ></textarea
+        ><br /><br />
+
+        <input type="submit" value="გაგზავნა" class="submit-button" />
+      </form>
+    </section>
+  </body>
+</html>

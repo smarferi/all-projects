@@ -1,0 +1,136 @@
+.home_page {
+  font-family: Bangers;
+  position: relative;
+  top: 10px;
+  color: rgb(255, 255, 0);
+  font-size: 100px;
+  margin-bottom: 0;
+}
+@keyframes slideright {
+  from{transform: translateX(300%);}
+}
+
+.georgia {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+.georgia:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+
+.greece {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.greece:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.turkey {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.turkey:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+.armebia {
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.armenia{
+  position: relative;
+  top: 100px;
+  width: 250px;
+  height: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  background: none;
+  cursor: pointer;
+  transition: background-color 0.5s, color 0.5s, border 0.5s;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  animation-name: slideright;
+  animation-duration: 2s;
+}
+
+.armenia:hover {
+  background-color: rgb(255, 255, 99);
+  color: rgb(180, 240, 255);
+  border: none;
+}
+
+body {
+  background-color: rgb(180, 240, 255);
+}
+
+
