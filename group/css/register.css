@@ -1,0 +1,111 @@
+body {
+    background-image: url('../photo/pexels-jplenio-1118873.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 0; 
+    height: 100vh; 
+    
+}
+@keyframes slideright {
+    from{transform: translateX(-20%);}
+
+    from{transform: translateX(20%);}
+    
+    from{transform: translateX(-20);}
+}
+
+.reg {
+    animation-name: slideright;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    width: 350px;
+    height: 80px;
+    border-radius: 20px;
+    border-style: solid;
+    position: relative;
+    top: 300px;
+    padding: 15px 30px;
+    font-size: 18px;
+    color: white;
+    background: linear-gradient(90deg, #ff8a00, #da1b60);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    animation-name: slideright;
+    animation-duration: 2s;
+    margin-top: 40px;
+
+    
+}
+
+.reg:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+    background: linear-gradient(90deg, #da1b60, #ff8a00);
+}
+
+.reg:active {
+    transform: scale(0.95);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.Username {
+    width: 300px;
+    padding: 15px;
+    font-size: 16px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background: linear-gradient(to right, #ff9a3c, #ff6f61, #ffc93c);
+    color: #fff;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    outline: none;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    position: relative;
+    top: 300px;
+  }
+
+  .Username::placeholder {
+    color: #ffe7b9;
+    opacity: 0.8;
+  }
+
+  .Username:focus {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    transform: scale(1.05);
+    border-color: #ff6f61;
+  }
+
+
+  .Password {
+    width: 300px;
+    padding: 15px;
+    font-size: 16px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background: linear-gradient(to right, #ff9a3c, #ff6f61, #ffc93c);
+    color: #fff;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    outline: none;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    position: relative;
+    top: 300px;
+    margin-top: 5px;
+
+  }
+
+  .Password::placeholder {
+    color: #ffe7b9;
+    opacity: 0.8;
+  }
+
+  .Password:focus {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    transform: scale(1.05);
+    border-color: #ff6f61;
+  }
